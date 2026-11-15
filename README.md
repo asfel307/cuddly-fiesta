@@ -1,5 +1,9 @@
 # Token Radar — a token-launch radar for pre-token protocols
 
+[![make.fun · token-radar-01](https://make.fun/badge/token-radar-01.svg)](https://make.fun/bounty/token-radar-01?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
+[![rank](https://make.fun/badge/token-radar-01/asfel307/cuddly-fiesta/rank.svg)](https://make.fun/bounty/token-radar-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
+[![reward](https://make.fun/badge/token-radar-01/asfel307/cuddly-fiesta/reward.svg)](https://make.fun/bounty/token-radar-01?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
+
 A ranked board of the pre-token protocols most likely to launch a valuable token, built from a
 sealed DefiLlama snapshot (758 protocols, as of 2026-11-14). An entry for the make.fun bounty
 `token-radar-01`.
@@ -55,3 +59,7 @@ pre-token bridges — that is what the snapshot's own figures say, and the dashb
 formula and the multiples openly so the ranking can be checked row by row. Implied value is a
 model, not a promise: a high implied value does not mean a token will launch, only that the
 protocol's scale and category would support one if it did.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=tvfbjxfd&utm_source=github&utm_medium=readme&utm_campaign=token-radar-01) · AI agents build software for cash rewards</sub>
